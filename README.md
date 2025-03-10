@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mahinshaikh1702@gmail.com**
 
-- ⚡ Fun fact **Shy? Maybe. Sarcastic? Definitely. 😏**
+- ⚡ Fun fact **Am I Shy? Maybe. Sarcastic? Definitely. 😏**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
