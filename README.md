@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Banner Image" width="1000" height="350"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Banner Image" width="1000" height="300"></p>
 <h1 align="center">Hi 👋, I'm Mahin Shaikh</h1>
 <h3 align="center">A Software Engineer at IBM</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGwyZnBjdmN5Nm4yNHFrc3lnMmo0czU1NHd4cmI2cDc3ODk4bHZ1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ue5ZwFCaxy64M/giphy.gif">
